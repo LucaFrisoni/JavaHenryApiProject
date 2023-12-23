@@ -1,1 +1,1 @@
-La Api la Testie y funciona perfectamente, en caso de problemas fijarse la propiedad `spring.datasource.url=jdbc:h2:C:/Users/Usuario/JavaUpskillingDB` \ny modificarlo para que h2 automaticamente cree una base de datos en el directorio especificado
+La Api la Testie y funciona perfectamente, en caso de problemas fijarse la propiedad `spring.datasource.url=jdbc:h2:C:/Users/Usuario/JavaUpskillingDB` y modificarlo para que h2 automaticamente cree una base de datos en el directorio especificado
